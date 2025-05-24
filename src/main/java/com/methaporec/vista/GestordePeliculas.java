@@ -16,6 +16,7 @@ public class GestordePeliculas {
     public static void main(String[] args) {  
         boolean salir = false;
         System.out.println("Nueva funcionalidad");
+        System.out.println("Nueva funcionalidad2");
         
         //Menu
         while (!salir) {  
