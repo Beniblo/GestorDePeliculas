@@ -14,7 +14,8 @@ public class GestordePeliculas {
     private static Scanner _scanner_ = new Scanner(System.in);  
 
     public static void main(String[] args) {  
-        boolean salir = false;  
+        boolean salir = false;
+        System.out.println("Nueva funcionalidad");
         
         //Menu
         while (!salir) {  
